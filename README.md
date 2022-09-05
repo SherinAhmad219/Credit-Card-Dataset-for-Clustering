@@ -34,6 +34,6 @@ I used Affinity Propagation, Agglomerative, BIRCH, DBSCAN, K-means, Mini-Batch K
 The best result I got was from K-means clustering and Mini-Batch K-Means clustering.
 And I used PCA to reduce the dimensions of the data and plot, also I used pycaret library 
 For 3d result plotting.
-![Elbow](https://user-images.githubusercontent.com/96171965/188399766-a1a269c4-4294-41ef-bae6-61b6f4ac26dc.png) ![silhouette ](https://user-images.githubusercontent.com/96171965/188399914-74f9e5a4-cf84-4d44-a6d0-85fbba050fd2.png)
+              ![Elbow](https://user-images.githubusercontent.com/96171965/188399766-a1a269c4-4294-41ef-bae6-61b6f4ac26dc.png) ![silhouette ](https://user-images.githubusercontent.com/96171965/188399914-74f9e5a4-cf84-4d44-a6d0-85fbba050fd2.png)
 ![CreditCard](https://user-images.githubusercontent.com/96171965/188399937-e010daa6-d0d2-4a00-a43c-fd966307e4c2.png)
 
